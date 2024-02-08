@@ -4,10 +4,16 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-# useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
+from scrapy.pipelines.files import FilesPipeline
 
 
-class TutorialPipeline:
-    def process_item(self, item, spider):
-        return item
+
+class TutorialPipeline(FilesPipeline):
+    #def process_item(self, item, spider):
+    #    return item
+
+    def file_path(self, request, response=None, info=None, *, item=None):
+        file_name: str = request.url.split("/")[-1]
+        print('\n\n', file_name, '\n\n')
+        return file_name
+

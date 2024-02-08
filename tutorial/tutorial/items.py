@@ -7,6 +7,6 @@ import scrapy
 
 
 class TutorialItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    file_urls = scrapy.Field()
+    files = scrapy.Field()
+    original_file_name = scrapy.Field()
