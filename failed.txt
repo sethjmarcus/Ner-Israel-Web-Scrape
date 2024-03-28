@@ -1,0 +1,51 @@
+['https://torahcdn.net/tdn/nirc/18073304.mp3']	Shiur Title: עניני כשרות: טריפות, תולעים, טבילת כלים  Presenter(s): ['HaRav Yosef Berger']	['HaRav Yosef Berger']
+['https://torahcdn.net/tdn/nirc/18073305.mp3']	"Shiur Title: עניני כשרות: הפרשת חלה, פת ובישול עכו""ם  Presenter(s): ['HaRav Yosef Berger']"	['HaRav Yosef Berger']
+['https://torahcdn.net/tdn/nirc/18082881.mp3']	"Shiur Title: מסיבת חנוכה תשפ""ב  Presenter(s): ['HaRav Tzvi Einstadter', '  בחורים*']"	['HaRav Tzvi Einstadter', '  בחורים*']
+['https://torahcdn.net/tdn/nirc/18072135.mp3']	Shiur Title: הקדמה להל' משא ומתן  Presenter(s): ['HaRav Moshe Heinemann']	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18072659.mp3']	"Shiur Title: הל' שבת: אמירה לעכו""ם - משרתת הבית  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18079566.mp3']	"Shiur Title: מידות של אברהם אבינו 
+ושבירת המידות של כל אדם  Presenter(s): ['HaRav Tzvi Einstadter']"	['HaRav Tzvi Einstadter']
+['https://torahcdn.net/tdn/nirc/18073008.mp3']	"Shiur Title: קיצור שו""ע סי' ו': ברכות  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18073202.mp3']	Shiur Title: הלכות ניחוש  Presenter(s): ['HaRav Moshe Heinemann']	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074392.mp3']	"Shiur Title: קיצור שו""ע סי' צב- צג/ב הל' סכנת נפשות  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074508.mp3']	"Shiur Title: קיצש""ע הל' כיבוד רבו, איסור יחוד  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074519.mp3']	Shiur Title: הכנת הסדר  Presenter(s): ['HaRav Moshe Heinemann']	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074653.mp3']	"Shiur Title: קשו""ע - סי' קפח- קצ , הל' פקדון, מעקה  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074654.mp3']	"Shiur Title: קשו""ע - סי' קצא, הל' צער בעלי חיים  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074659.mp3']	"Shiur Title: קשו""ע - סי' קצב, הל' רפואה  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18074660.mp3']	"Shiur Title: קשו""ע - סי' קצג, הל' ביקור חולים, צוואות  Presenter(s): ['HaRav Moshe Heinemann']"	['HaRav Moshe Heinemann']
+['https://torahcdn.net/tdn/nirc/18079472.mp3']	Shiur Title: עצה לשנה טובה בישיבה  Presenter(s): ['HaRav Tzvi Einstadter']	['HaRav Tzvi Einstadter']
+['https://torahcdn.net/tdn/nirc/18083188.mp3']	Shiur Title: שיחה לכולל של מחנה קיץ בישיבה  Presenter(s): ['HaRav Tzvi Einstadter']	['HaRav Tzvi Einstadter']
+['https://torahcdn.net/tdn/nirc/18073659.mp3']	Shiur Title: כתובות ז ע''ב כלה בלא ברכה, ברכת ארוסין, שבע ברכות  Presenter(s): ['HaRav Tzvi Berkowitz']	['HaRav Tzvi Berkowitz']
+['https://torahcdn.net/tdn/nirc/18069659.mp3']	"Shiur Title: חנוכה (א)  Presenter(s): [""HaRav HaGaon R' Yitzchok Hutner""]"	"[""HaRav HaGaon R' Yitzchok Hutner""]"
+['https://torahcdn.net/tdn/nirc/18074673.mp3']	"Shiur Title: ב""ק ע ע''ב עקירה צורך הנחה  Presenter(s): ['HaRav Tzvi Berkowitz']"	['HaRav Tzvi Berkowitz']
+['https://torahcdn.net/tdn/nirc/18074430.mp3']	"Shiur Title: יאהרצייט של מוה""ר דוד קראנגלאס זצ""ל: בעידנא, ועשה דוחה ל""ת  Presenter(s): ['HaRav Sheftel Neuberger']"	['HaRav Sheftel Neuberger']
+['https://torahcdn.net/tdn/nirc/18080924.mp3']	"Shiur Title: יאהרצייט של מוה""ר דוד קראנגלאס זצ""ל -
+כתובות י""א ע''א גר קטן מטבילין אותו ע""ד ב""ד  Presenter(s): ['HaRav Sheftel Neuberger']"	['HaRav Sheftel Neuberger']
+['https://torahcdn.net/tdn/nirc/18079759.mp3']	"Shiur Title: ב""מ לג ע''ב -לד ע''א ביאור המשנה לפי הבבלי
+ ולפי הירושלמי  Presenter(s): ['HaRav Tzvi Berkowitz']"	['HaRav Tzvi Berkowitz']
+['https://torahcdn.net/tdn/nirc/18082335.mp3']	"Shiur Title: ב""ב קכו ע''א  Presenter(s): ['HaRav Tzvi Berkowitz']"	['HaRav Tzvi Berkowitz']
+['https://torahcdn.net/tdn/nirc/18068960.mp3']	"Shiur Title: שמחה בלמוד תורה ובעשיית מצוות  Presenter(s): [""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"	"[""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"
+['https://torahcdn.net/tdn/nirc/18068988.mp3']	"Shiur Title: פורים ומגילה  Presenter(s): [""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"	"[""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"
+['https://torahcdn.net/tdn/nirc/18069345.mp3']	"Shiur Title: פורים ואדר, יבמות יג ע''ב לא תתגודדו  Presenter(s): [""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"	"[""Moreinu V'Rabeinu HaRav Yaakov Yitzchok Ruderman""]"
+['https://torahcdn.net/tdn/nirc/18072027.mp3']	"Shiur Title: ב""ק צד ע''ב שינוי קונה  Presenter(s): ['Moreinu HaRav Yaakov Moshe Kulefsky']"	['Moreinu HaRav Yaakov Moshe Kulefsky']
+['https://torahcdn.net/tdn/nirc/18076351.mp3']	Shiur Title: הצפרדעים וקידוש השם  Presenter(s): ['Moreinu HaRav Aharon Feldman']	['Moreinu HaRav Aharon Feldman']
+['https://torahcdn.net/tdn/nirc/18078823.mp3']	Shiur Title: פ' יתרו: יראה על הפנים זו קדושה  Presenter(s): ['Moreinu HaRav Aharon Feldman']	['Moreinu HaRav Aharon Feldman']
+['https://torahcdn.net/tdn/nirc/18080057.mp3']	"Shiur Title: דברי התעררות ימים נוראים: להתפלל עבור אחרים (ירחי כלה לק""ק שומרי אמונה ושערי 
+ציון)  Presenter(s): ['HaRav Shraga Neuberger']"	['HaRav Shraga Neuberger']
+['https://torahcdn.net/tdn/nirc/18076541.mp3']	Shiur Title: הדרכה לחתנים (ג')  Presenter(s): ['HaRav Shraga Neuberger']	['HaRav Shraga Neuberger']
+['https://torahcdn.net/tdn/nirc/18070012.mp3']	"Shiur Title: מנחת חינוך: קרבן פסח  Presenter(s): [""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"	"[""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"
+['https://torahcdn.net/tdn/nirc/18070017.mp3']	"Shiur Title: ספר המצות: אכילת קרבן פסח ומרור  Presenter(s): [""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"	"[""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"
+['https://torahcdn.net/tdn/nirc/18077617.mp3']	"Shiur Title: הדרכה לחתנים:
+ לעבוד על ההֶבדֵלים (א)  Presenter(s): ['HaRav Shraga Neuberger']"	['HaRav Shraga Neuberger']
+['https://torahcdn.net/tdn/nirc/18077618.mp3']	"Shiur Title: הדרכה לחתנים:
+ לעבוד על ההֶבדֵלים (ב)  Presenter(s): ['HaRav Shraga Neuberger']"	['HaRav Shraga Neuberger']
+['https://torahcdn.net/tdn/nirc/18075199.mp3']	"Shiur Title: ראש השנה תשס""ה  Presenter(s): ['HaRav Nochum Meir Lansky']"	['HaRav Nochum Meir Lansky']
+['https://torahcdn.net/tdn/nirc/18078233.mp3']	Shiur Title: מסיבת חנוכה  Presenter(s): ['HaRav Nochum Meir Lansky']	['HaRav Nochum Meir Lansky']
+['https://torahcdn.net/tdn/nirc/18081571.mp3']	"Shiur Title: פ' חיי שרה פרק כ""ג:א', ט'-י', י""ז-י""ט, פרק כ""ד:ג'-ו', ס""ו
+מיתת שרה, שני חיי שרה, קניית מערת המכפילה  Presenter(s): [""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"	"[""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"
+['https://torahcdn.net/tdn/nirc/18069616.mp3']	Shiur Title: הקדמה לתפילה  Presenter(s): ['HaRav Nochum Meir Lansky']	['HaRav Nochum Meir Lansky']
+['https://torahcdn.net/tdn/nirc/18069618.mp3']	Shiur Title: אתה קדוש, אתה חונן (צרכי עמך מרובים, דעת ויין)  Presenter(s): ['HaRav Nochum Meir Lansky']	['HaRav Nochum Meir Lansky']
+['https://torahcdn.net/tdn/nirc/18072101.mp3']	"Shiur Title: יבמות לה ע''ב גלוי מילתא למפרע  Presenter(s): [""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"	"[""Moreinu V'Rabeinu HaRav Shmuel Yaakov Weinberg""]"
+['https://torahcdn.net/tdn/nirc/18083447.mp3']	"Shiur Title: שמואל א' (כ""ט) פרק ט' פסוקים א' - ב'  Presenter(s): ['HaRav Nochum Meir Lansky']"	['HaRav Nochum Meir Lansky']
+['https://torahcdn.net/tdn/nirc/18078557.mp3']	Shiur Title: גיטין ב ע''א עדות על השליחות  Presenter(s): ['Moreinu HaRav Aharon Feldman']	['Moreinu HaRav Aharon Feldman']

@@ -15,7 +15,7 @@ class QuotesSpider(scrapy.Spider):
 
     def parse(self, response):
         jsonresponse = response.json()
-        print(jsonresponse is None, '\n\n\n')
+        
         for speaker in jsonresponse["speakers"]:
             speaker_info = jsonresponse["speakers"][speaker]
             
@@ -38,15 +38,15 @@ class QuotesSpider(scrapy.Spider):
 
             with open("quotes-test.txt", 'a', encoding="utf-8") as output_file:
                 output_file.write(f'Shiur Title: {shiur["title"]}  Presenter(s): {str(speakers)}\n')
-            self.log(f"Saved file quotes-test.txt")
+            #self.log(f"Saved file quotes-test.txt")
 
             item = TutorialItem()
             item['file_urls'] = [download_url]
             item['original_file_name'] = f'Shiur Title: {shiur["title"]}  Presenter(s): {str(speakers)}'
+            item['folder_name'] = str(speakers)
 
             yield item
 
         next_page = jsonresponse["shiurim"]["next_page"]
         if next_page is not None:
             yield scrapy.Request(url=next_page, callback=self.parse_layer_two)
-    

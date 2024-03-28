@@ -65,7 +65,7 @@ COOKIES_ENABLED = False
 ITEM_PIPELINES = {
     "tutorial.pipelines.TutorialPipeline": 300,
 }
-FILES_STORE = '/media/seth/Seth Backup/ner_israel_output/'
+FILES_STORE = '/media/seth/SETH_BACKUP/'
 FILES_URLS_FIELD = 'file_urls'  # copy verbatim
 FILES_RESULT_FIELD = 'files'     # copy verbatim
 
