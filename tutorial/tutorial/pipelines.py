@@ -24,10 +24,7 @@ class TutorialPipeline(FilesPipeline):
     def file_path(self, request, response=None, info=None, *, item=None):
         invalid_chars = ':,[]\'"?/'
         
-        item = request.meta.get('item')
-        file_name: str =  item['original_file_name']
-        folder_name = item['folder_name']
-        for char in invalid_chars:
+        item = request.meta.get('item')'
             file_name = file_name.replace(char, "")
             folder_name = folder_name.replace(char, "")
 

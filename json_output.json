@@ -1,0 +1,15 @@
+{"downloader/exception_count": 84,
+ "downloader/exception_type_count/twisted.internet.error.TimeoutError": 71,
+ "downloader/exception_type_count/twisted.web._newclient.ResponseFailed": 13,
+ "downloader/request_count": 8580,
+ "downloader/request_method_count/GET": 8580,
+ "downloader/response_count": 8496,
+ "downloader/response_status_count/200": 8461,
+ "downloader/response_status_count/404": 35,
+ "file_count": 8158,
+ "file_status_count/downloaded": 8002,
+ "file_status_count/uptodate": 156,
+ "item_dropped_count": 44,
+ "item_scraped_count": 8250,
+ "response_received_count": 8496
+ }
